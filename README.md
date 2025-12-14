@@ -1,2 +1,3 @@
-IITG 2026 CPI wise rank list \n
-Its only the data of those who sat for placements , hence the results may have a deviation of upto 200
+# IIT Guwahati – CPI-wise Rank List (Batch of 2026)
+
+This repository contains the CPI-wise ranking of students from the IIT Guwahati Batch of 2026 based on placement participation data.
